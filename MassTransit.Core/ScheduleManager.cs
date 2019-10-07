@@ -9,7 +9,7 @@ namespace MassTransit.Core
 {
     public class ScheduleManager
     {
-        private ConcurrentDictionary<string, Dictionary<string, List<TimeSpan>>> _scheduleHub;
+        private Dictionary<string, Dictionary<string, List<TimeSpan>>> _scheduleHub;
         private TimeSpan _dayServiceStartTime;
         private TimeSpan _startTimePerRoute;
         private TimeSpan _dayServiceStopTime;
@@ -25,7 +25,7 @@ namespace MassTransit.Core
 
         private ScheduleManager()
         {
-            _scheduleHub = new ConcurrentDictionary<string, Dictionary<string, List<TimeSpan>>>();
+            _scheduleHub = new Dictionary<string, Dictionary<string, List<TimeSpan>>>();
 
             //those variables could have be setup to be accessible outside of this class but not for this case
             _dayServiceStartTime = new TimeSpan(0, 0, 0);
@@ -105,7 +105,7 @@ namespace MassTransit.Core
         {
             foreach (var routeId in Routes)
             {
-                _scheduleHub.TryAdd(routeId, new Dictionary<string, List<TimeSpan>>());
+                _scheduleHub.Add(routeId, new Dictionary<string, List<TimeSpan>>());
             }
         }
         public List<TimeSpan> GetNextArrival(string route, string stop, TimeSpan timeRequested, int nbFutureArrival = 2)
