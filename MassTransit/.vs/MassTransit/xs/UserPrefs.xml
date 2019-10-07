@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{42C34272-B441-488C-AA08-EAD3E86297E1}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.ItemProperties.MassTransit.Web PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MassTransit.sln">
+    <Files>
+      <File FileName="../MassTransit.Web/Worker.cs" Line="28" Column="1" />
+      <File FileName="../MassTransit.Core/ScheduleManager.cs" Line="112" Column="10" />
+      <File FileName="../MassTransit.Web/Startup.cs" Line="35" Column="39" />
+      <File FileName="Program.cs" Line="14" Column="51" />
+      <File FileName="../MassTransit.Web/Properties/launchSettings.json" Line="15" Column="21" />
+      <File FileName="../MassTransit.TestClient/Program.cs" Line="1" Column="1" />
+      <File FileName="../MassTransit.Core/HubServiceInterfaces/ArrivalReponse.cs" Line="1" Column="1" />
+      <File FileName="../MassTransit.Core/Helpers/Toolbox.cs" Line="5" Column="11" NotebookId="1" />
+      <File FileName="../MassTransit.Web/Controllers/TransitController.cs" Line="34" Column="110" NotebookId="1" />
+      <File FileName="../MassTransit.Core/HubServiceInterfaces/IClock.cs" Line="8" Column="6" NotebookId="1" />
+      <File FileName="../MassTransit.Core/HubServiceInterfaces/Strings.cs" Line="11" Column="10" NotebookId="1" />
+      <File FileName="../MassTransit.Web/Hubs/TransitHub.cs" Line="40" Column="6" NotebookId="1" />
+      <File FileName="MassTransit.sln" Line="1" Column="1" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MassTransit" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MassTransit PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>MassTransit.Core/MassTransit.Core.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/macbookpro/Documents/MassTransit/.Web/Worker.cs" relfile=".Web/Worker.cs" line="28" column="1" />
+      <Breakpoint file="/Users/macbookpro/Documents/MassTransit/.Web/Controllers/TransitController.cs" relfile=".Web/Controllers/TransitController.cs" line="33" column="1" />
+      <Breakpoint file="/Users/macbookpro/Documents/MassTransit.Web/Controllers/TransitController.cs" relfile=".Web/Controllers/TransitController.cs" line="36" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

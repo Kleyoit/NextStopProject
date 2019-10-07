@@ -1,0 +1,15 @@
+/Users/macbookpro/Documents/MassTransit/MassTransit.Core/bin/Debug/netstandard2.0/MassTransit.Core.deps.json
+/Users/macbookpro/Documents/MassTransit/MassTransit.Core/bin/Debug/netstandard2.0/MassTransit.Core.dll
+/Users/macbookpro/Documents/MassTransit/MassTransit.Core/bin/Debug/netstandard2.0/MassTransit.Core.pdb
+/Users/macbookpro/Documents/MassTransit/MassTransit.Core/obj/Debug/netstandard2.0/MassTransit.Core.AssemblyInfoInputs.cache
+/Users/macbookpro/Documents/MassTransit/MassTransit.Core/obj/Debug/netstandard2.0/MassTransit.Core.AssemblyInfo.cs
+/Users/macbookpro/Documents/MassTransit/MassTransit.Core/obj/Debug/netstandard2.0/MassTransit.Core.dll
+/Users/macbookpro/Documents/MassTransit/MassTransit.Core/obj/Debug/netstandard2.0/MassTransit.Core.pdb
+/Users/macbookpro/Documents/MassTransit/MassTransit.Core/obj/Debug/netstandard2.0/MassTransit.Core.csprojAssemblyReference.cache
+/Users/macbookpro/Documents/MassTransit.Core/bin/Debug/netstandard2.0/MassTransit.Core.deps.json
+/Users/macbookpro/Documents/MassTransit.Core/bin/Debug/netstandard2.0/MassTransit.Core.dll
+/Users/macbookpro/Documents/MassTransit.Core/bin/Debug/netstandard2.0/MassTransit.Core.pdb
+/Users/macbookpro/Documents/MassTransit.Core/obj/Debug/netstandard2.0/MassTransit.Core.AssemblyInfoInputs.cache
+/Users/macbookpro/Documents/MassTransit.Core/obj/Debug/netstandard2.0/MassTransit.Core.AssemblyInfo.cs
+/Users/macbookpro/Documents/MassTransit.Core/obj/Debug/netstandard2.0/MassTransit.Core.dll
+/Users/macbookpro/Documents/MassTransit.Core/obj/Debug/netstandard2.0/MassTransit.Core.pdb

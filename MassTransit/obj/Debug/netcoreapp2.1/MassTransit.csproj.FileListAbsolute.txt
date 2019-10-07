@@ -1,0 +1,13 @@
+/Users/macbookpro/Documents/MassTransit/bin/Debug/netcoreapp2.1/MassTransit.deps.json
+/Users/macbookpro/Documents/MassTransit/bin/Debug/netcoreapp2.1/MassTransit.runtimeconfig.json
+/Users/macbookpro/Documents/MassTransit/bin/Debug/netcoreapp2.1/MassTransit.runtimeconfig.dev.json
+/Users/macbookpro/Documents/MassTransit/bin/Debug/netcoreapp2.1/MassTransit.dll
+/Users/macbookpro/Documents/MassTransit/bin/Debug/netcoreapp2.1/MassTransit.pdb
+/Users/macbookpro/Documents/MassTransit/bin/Debug/netcoreapp2.1/MassTransit.Core.dll
+/Users/macbookpro/Documents/MassTransit/bin/Debug/netcoreapp2.1/MassTransit.Core.pdb
+/Users/macbookpro/Documents/MassTransit/obj/Debug/netcoreapp2.1/MassTransit.csprojAssemblyReference.cache
+/Users/macbookpro/Documents/MassTransit/obj/Debug/netcoreapp2.1/MassTransit.AssemblyInfoInputs.cache
+/Users/macbookpro/Documents/MassTransit/obj/Debug/netcoreapp2.1/MassTransit.AssemblyInfo.cs
+/Users/macbookpro/Documents/MassTransit/obj/Debug/netcoreapp2.1/MassTransit.csproj.CopyComplete
+/Users/macbookpro/Documents/MassTransit/obj/Debug/netcoreapp2.1/MassTransit.dll
+/Users/macbookpro/Documents/MassTransit/obj/Debug/netcoreapp2.1/MassTransit.pdb
